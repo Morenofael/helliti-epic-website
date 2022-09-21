@@ -37,6 +37,15 @@ body{
     width: 1000px;
     height: 600px;
 }
+#info-button{
+    height:auto;
+    width: 200px;
+    bottom:350px;
+}
+#info{
+    height: auto;
+    width: 500px;
+}
 .relative{
     position: relative;
 }
