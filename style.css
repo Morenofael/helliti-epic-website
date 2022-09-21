@@ -14,7 +14,17 @@ body{
 #space-helliti{
     height: auto;
     width: 350px;
+    
 }
 #colouring-text{
     color: red;
+}
+#middle-finger{
+    left: 80px;
+}
+#colouring-contest-button{
+    bottom: 160px;
+}
+.relative{
+    position: relative;
 }
