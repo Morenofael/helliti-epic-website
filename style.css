@@ -1,0 +1,14 @@
+body.index{
+    background-image: url(media/helliti-drawing.png);
+}
+#logo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height:auto;
+    width: 400px;
+}
+#space-helliti{
+    height: auto;
+    width: 350px;
+}
