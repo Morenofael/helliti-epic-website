@@ -12,16 +12,13 @@ body{
 #space-helliti{
     height: auto;
     width: 350px;
-    
+    bottom: 160px;
 }
 #colouring-text{
     color: red;
 }
 #middle-finger{
     left: 80px;
-}
-#colouring-contest-button{
-    bottom: 160px;
 }
 #store-button{
     height: auto;
@@ -46,6 +43,6 @@ body{
     height: auto;
     width: 500px;
 }
-.relative{
+img{
     position: relative;
 }
