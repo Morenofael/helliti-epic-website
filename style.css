@@ -1,5 +1,8 @@
-body.index{
+body{
     background-image: url(media/helliti-drawing.png);
+}
+.middle-text{
+    text-align: center;
 }
 #logo{
     display:block;
@@ -11,4 +14,7 @@ body.index{
 #space-helliti{
     height: auto;
     width: 350px;
+}
+#colouring-text{
+    color: red;
 }
