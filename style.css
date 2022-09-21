@@ -4,12 +4,10 @@ body{
 .middle-text{
     text-align: center;
 }
-#logo{
+.middle-image{
     display:block;
     margin-left: auto;
     margin-right: auto;
-    height:auto;
-    width: 400px;
 }
 #space-helliti{
     height: auto;
@@ -24,6 +22,20 @@ body{
 }
 #colouring-contest-button{
     bottom: 160px;
+}
+#store-button{
+    height: auto;
+    width: 200px;
+    left: 90px;
+    bottom:50px;
+}
+#logo{
+    height:auto;
+    width: 400px;
+}
+#none-lmao{
+    width: 1000px;
+    height: 600px;
 }
 .relative{
     position: relative;
