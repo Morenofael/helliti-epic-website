@@ -43,6 +43,12 @@ body{
     height: auto;
     width: 500px;
 }
+#menu-button{
+    left: 20px;
+    bottom: 350px;
+    height: auto;
+    width: 200px;
+}
 img{
     position: relative;
 }
